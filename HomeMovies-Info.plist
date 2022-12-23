@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>JSON_URL</key>
-	<string>https://example.com/example.json</string>
+	<string>https://raw.githubusercontent.com/bwhitela/HomeMovies/main/exampleJSON/videos.json</string>
 	<key>MAIN_TITLE</key>
 	<string>My Home Movies</string>
 </dict>
