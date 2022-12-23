@@ -27,4 +27,4 @@ The schema of the JSON file that is pulled from `JSON_URL` in the `HomeMovies-In
 
 ## Note On Usage
 
-I am posting this on GitHub as I hope it is useful to others. I decided against trying to make it customizable in a way that I could submit it to the App Store, but decided against that as it is not worth the effort. Please don't do that or steal my graphics. And if you want to make this better (but not make it much more complicated) feel free to offer up a pull-request. This is running just fine on a Apple TV HD with tvOS 16.1. Enjoy!
+I am posting this on GitHub as I hope it is useful to others. I decided against trying to make it customizable in a way that I could submit it to the App Store, but decided against that as it is not worth the effort. Please don't do that or steal my graphics. And if you want to make this better (but not make it much more complicated) feel free to offer up a pull-request. This is running just fine on an Apple TV HD with tvOS 16.1. Enjoy!
