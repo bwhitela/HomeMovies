@@ -1,0 +1,12 @@
+[
+    {
+        "title": "My first video",
+        "id": "first-video",
+        "video_url": "https://example.com/video1.mp4"
+    },
+    {
+        "title": "My second video",
+        "id": "second-video",
+        "video_url": "https://example.com/video2.mp4"
+    }
+]
